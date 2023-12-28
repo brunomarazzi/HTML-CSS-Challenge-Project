@@ -1,9 +1,9 @@
 # 'Build Responsive Real-World Websites with HTML and CSS' Challenge
 
-Projeto criado para assimilar os conhecimentos passados no curso: 'Build Responsive Real-World Websites with HTML and CSS' por Jonas Schmedtmann.
+Projeto criado para o desafio proposto no curso: 'Build Responsive Real-World Websites with HTML and CSS' por Jonas Schmedtmann.
 
 English:
-Project created to assimilate the knowledge learned in the course: 'Build Responsive Real-World Websites with HTML and CSS' by Jonas Schmedtmann.
+Project created to the challenge proposed on the course: 'Build Responsive Real-World Websites with HTML and CSS' by Jonas Schmedtmann.
 
 ## Contato
 
