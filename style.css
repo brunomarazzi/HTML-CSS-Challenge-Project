@@ -9,17 +9,6 @@ body {
   line-height: 1.4;
 }
 
-/* .clearfix::after {
-  content: "";
-  display: block;
-  clear: both;
-} */
-
-.container {
-  display: flex;
-  gap: 40px;
-}
-
 .img-allstar {
   width: 250px;
   height: auto;
@@ -30,6 +19,9 @@ body {
   width: 825px;
   margin: 50px auto;
   position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 40px;
 }
 
 .product::after {
@@ -51,6 +43,7 @@ body {
   text-transform: uppercase;
   background-color: #f7f7f7;
   padding: 15px;
+  grid-column: 1/-1;
 }
 
 .product-info {
@@ -166,6 +159,7 @@ body {
   cursor: pointer;
   width: 100%;
   padding: 15px;
+  grid-column: 1/-1;
 }
 
 .add-cart:hover {
